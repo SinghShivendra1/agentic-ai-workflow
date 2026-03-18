@@ -1,0 +1,2 @@
+# This demo intentionally keeps dependencies minimal.
+# Add openai or any LLM SDK later if you want live model integration.
